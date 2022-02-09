@@ -1,8 +1,8 @@
 ## Olá, eu sou o Thalison Moreira, é sou programação e UX/UI!
 
 <div align="center">
-  <a href="https://github.com/imthalison">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthalison&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/ThalisonM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalisonM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalison&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -25,3 +25,8 @@
  <a href="https:// https://discord.gg/V9HxRWd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thalison.silvamoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalison-moreira-020077221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
