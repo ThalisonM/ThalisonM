@@ -1,4 +1,6 @@
-## Olá, eu sou o Thalison Moreira, é sou programação e UX/U designer!!!
+## Olá, meu nome e Thalison 
+
+Sou Desenvolvedor Front-end Júnior, formado em Análise de Desenvolvimento de Sistema e com experiência em Front-end e Analista de dados. 
 
 <div align="center">
   <a href="https://github.com/ThalisonM">
