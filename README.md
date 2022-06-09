@@ -3,8 +3,8 @@
 
 <a href="a" target="_blank"> Thalison Moreira - Portfólio </a>
 ## I'm Thalison Moreira
-- I live in :brazil:, Rio de Janeiro :sunglasses::sunrise:
-- I am a Computer Science student 💻
+- I live in :brazil:, Thalison Moreira 
+- I am a System Development Analysis 💻
 - I am Front-end Developer :computer:
 - I have been learnig more about React, Typescript and tests 🚀
 
